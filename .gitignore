@@ -1,0 +1,5 @@
+composer.phar
+vendor/composer
+vendor/phpixie
+vendor/autoload.php
+composer.lock
